@@ -1,4 +1,4 @@
-OBJECTIVE
+OBJECTIVE - 
 As a data analyst for the sales and customer Tableau project, deliver insights on customer distribution, top-performing customers, and sales trends to optimize business strategies and drive growth.
 
 • Customer distribution by demographics and region
@@ -7,7 +7,7 @@ As a data analyst for the sales and customer Tableau project, deliver insights o
 • Product/service performance analysis
 • Identification of potential high-value customers
 
-DOMAIN KNOWLEDGE
+DOMAIN KNOWLEDGE - 
 
 In eCommerce, money comes from customers buying products or services. Businesses sell items on their website or through online marketplaces. Some also earn money through subscriptions, affiliate marketing, or charging fees to third-party sellers.
 How the Business Operates:
@@ -18,37 +18,37 @@ How the Business Operates:
 5.	Marketing: Businesses attract customers through online ads, social media, and search engine results.
 6.	Customer Service: Good customer support keeps customers happy, encouraging them to buy again.
 
-DATA KNOWLEDGE(Dataset)
+DATA KNOWLEDGE(Dataset) - 
 
 Customer Table
-•	Customer ID: Unique identifier for each customer.
-•	Customer Name: The name of the customer (can be used to identify and profile the customer).
+1. Customer ID: Unique identifier for each customer.
+2. Customer Name: The name of the customer (can be used to identify and profile the customer).
 
 Location Table
-•	Postal Code: A unique postal code identifying the location of the customer.
-•	City: The city where the customer resides.
-•	State: The state or province of the customer's location.
-•	Region: Larger geographical region (e.g., Northeast, Midwest, etc.).
-•	Country/Region: The country or region where the customer is located.
+1. Postal Code: A unique postal code identifying the location of the customer.
+2. City: The city where the customer resides.
+3. State: The state or province of the customer's location.
+4. Region: Larger geographical region (e.g., Northeast, Midwest, etc.).
+5. Country/Region: The country or region where the customer is located.
 
 Orders Table
-•	Row ID: A unique identifier for each row in the orders table.
-•	Order ID: Unique identifier for each order placed by a customer.
-•	Order Date: The date the order was placed.
-•	Ship Date: The date the order was shipped.
-•	Ship Mode: The shipping method chosen for the order (e.g., standard, expedited).
-•	Customer ID: Link to the Customer Table, indicating which customer made the order.
-•	Segment: The customer segment (e.g., corporate, consumer, or home office).
-•	Postal Code: The postal code for the shipping address.
-•	Product ID: Identifies which product was ordered.
-•	Sales: The total sales amount of the order (can be used to track revenue).
-•	Quantity: The number of units ordered.
-•	Discount: The discount applied to the order, if any.
-•	Profit: The profit earned from the order, factoring in the cost and sales price.
+1. Row ID: A unique identifier for each row in the orders table.
+2. Order ID: Unique identifier for each order placed by a customer.
+3. Order Date: The date the order was placed.
+4. Ship Date: The date the order was shipped.
+5. Ship Mode: The shipping method chosen for the order (e.g., standard, expedited).
+6. Customer ID: Link to the Customer Table, indicating which customer made the order.
+7. Segment: The customer segment (e.g., corporate, consumer, or home office).
+8. Postal Code: The postal code for the shipping address.
+9. Product ID: Identifies which product was ordered.
+10. Sales: The total sales amount of the order (can be used to track revenue).
+11. Quantity: The number of units ordered.
+12. Discount: The discount applied to the order, if any.
+13. Profit: The profit earned from the order, factoring in the cost and sales price.
 
 
 Products Table
-•	Product ID: A unique identifier for each product.
-•	Category: The broader category of the product (e.g., electronics, clothing).
-•	Sub-category: More specific classification within the category (e.g., laptops, shirts).
-•	Product Name: The name of the product (helps in identifying the product in reports).
+1. Product ID: A unique identifier for each product.
+2. Category: The broader category of the product (e.g., electronics, clothing).
+3. Sub-category: More specific classification within the category (e.g., laptops, shirts).
+4. Product Name: The name of the product (helps in identifying the product in reports).
