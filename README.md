@@ -46,11 +46,10 @@ Orders Table
 12. Discount: The discount applied to the order, if any.
 13. Profit: The profit earned from the order, factoring in the cost and sales price.
 
-Please do visit the interactive dashboard Thanks 😊
-
-
 Products Table
 1. Product ID: A unique identifier for each product.
 2. Category: The broader category of the product (e.g., electronics, clothing).
 3. Sub-category: More specific classification within the category (e.g., laptops, shirts).
 4. Product Name: The name of the product (helps in identifying the product in reports).
+
+Please do visit the interactive dashboard Thanks 😊
