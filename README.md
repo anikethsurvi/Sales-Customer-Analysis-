@@ -46,6 +46,8 @@ Orders Table
 12. Discount: The discount applied to the order, if any.
 13. Profit: The profit earned from the order, factoring in the cost and sales price.
 
+Please do visit the interactive dashboard Thanks 😊
+
 
 Products Table
 1. Product ID: A unique identifier for each product.
